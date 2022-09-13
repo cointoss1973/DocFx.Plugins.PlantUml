@@ -11,7 +11,7 @@
     <description>DocFx.PlantUml is a template for DocFx to allow DFM (DocFx MarkDown) documents to render diagrams using PlantUml</description>
     <releaseNotes></releaseNotes>
     <authors>DocFx.Plugins.PlantUml</authors>
-    <copyright>Copyright 2018</copyright>
+    <copyright>Copyright 2018-2022</copyright>
   </metadata>
 
   <files>
