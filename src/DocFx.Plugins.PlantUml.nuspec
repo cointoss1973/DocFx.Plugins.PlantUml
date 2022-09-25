@@ -1,12 +1,12 @@
-<?xml version="1.0"?>
-<package >
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>DocFx.Plugins.PlantUml</id>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <title>DocFx.Plugins.PlantUml</title>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <projectUrl>https://github.com/KevReed/DocFx.Plugins.PlantUml</projectUrl>
-    <licenseUrl>https://github.com/KevReed/DocFx.Plugins.PlantUml/blob/master/LICENSE</licenseUrl>
+	<license type="expression">MIT</license>
     <repository url="https://github.com/KevReed/DocFx.Plugins.PlantUml.git" />
     <description>DocFx.PlantUml is a template for DocFx to allow DFM (DocFx MarkDown) documents to render diagrams using PlantUml</description>
     <releaseNotes></releaseNotes>
